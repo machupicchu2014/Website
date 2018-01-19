@@ -1,0 +1,42 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: "Georgia", serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  color: black;
+}
+
+section {
+ display: flex;
+}
+
+aside {
+ flex: 1;
+}
+
+article {
+ flex: 10;
+}
