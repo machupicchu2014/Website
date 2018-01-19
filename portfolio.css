@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: #F0FFF0;
 }
 
 h1 {
@@ -18,11 +18,18 @@ p {
     font-size: 20px;
     color: black;
     text-align: center;
+    padding: 20px;
+}
+
+.fun {
+  color: blue;
 }
 
 img{
   display: block;
   margin: 0 auto;
+  padding: 1px;
+  border: 1px solid black;
 }
 
 ul {
@@ -31,10 +38,13 @@ ul {
 
 section {
  display: flex;
+ padding-top: 10px;
 }
 
 aside {
  flex: 1;
+ border: 1px solid black;
+ border-radius: 5px;
 }
 
 article {

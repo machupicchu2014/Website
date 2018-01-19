@@ -19,9 +19,9 @@ nav a {
 }
 
 nav li a:hover {
-  background-color: green;
+  background-color: lightblue;
 }
 
 nav .active {
-    background-color: purple;
+    background-color: blue;
 }
